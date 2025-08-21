@@ -25,8 +25,8 @@ Frontend Mentor - [QR code component](https://www.frontendmentor.io/challenges/q
 
 ### Links
 
-- Solution URL: [soon]()
-- Live Site URL: [soon]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-7dK8q_fN57)
+- Live Site URL: [Github Pages](https://rahulpaul127.github.io/fm-qr-code-component/)
 
 ## My Process
 
