@@ -35,9 +35,7 @@ Frontend Mentor - [QR code component](https://www.frontendmentor.io/challenges/q
 - CSS custom properties
 - Flexbox
 - Google Fonts
-
-## What I Learned
-
+  
 ## What I learned
 
 Back to basics after being away from development for almost 1 year. This challenge was about muscle memory more than learning - just getting comfortable with writing CSS and HTML again.
